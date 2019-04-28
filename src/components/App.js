@@ -6,7 +6,7 @@ import firebase from "firebase";
 // Custom Components to be used in the app
 //import { Header } from "./components/common/Header";
 
-import { Header } from ".";
+import { Header } from "./common/";
 // Import our LoginForm component to be displayed on the screen
 //import LoginForm from "./components/LoginForm";
 
