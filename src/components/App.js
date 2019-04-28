@@ -16,12 +16,12 @@ class App extends Component {
     //Life Cycle Method to init the firebase
     componentWillMount(){
         firebase.initializeApp({
-            apiKey: "AIzaSyCS4r5KFL-ZfFPUGp8BKreZIdO3HRU7zJg",
-            authDomain: "rnapp-auth-class.firebaseapp.com",
-            databaseURL: "https://rnapp-auth-class.firebaseio.com",
-            projectId: "rnapp-auth-class",
-            storageBucket: "rnapp-auth-class.appspot.com",
-            messagingSenderId: "738911042070"
+            apiKey: "AIzaSyDjqsPb7_HQTQktq6xl-fDGiCVBF2dPUQY",
+            authDomain: "mapp-auth-class-ahmed.firebaseapp.com",
+            databaseURL: "https://mapp-auth-class-ahmed.firebaseio.com",
+            projectId: "mapp-auth-class-ahmed",
+            storageBucket: "mapp-auth-class-ahmed.appspot.com",
+            messagingSenderId: "407294186543"
         });
     }
 
